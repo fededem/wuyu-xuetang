@@ -1,6 +1,6 @@
-# …ÇÕZŒWÌÃ
+# å³èªžå­¸å ‚
 
-[…ÇÕZŒWÌÃ](https://wugniu.com)ÊÇÒ»‚€ÃæÏòV·ºÊÜ±Š¡¢º¬ÓÐØS¸»¼°ÓÐÒæƒÈÈÝµÄ…ÇÕZŒWÁ•½ÌÓý¾WÕ¾¡£°üÀ¨…ÇÕZ…^¸÷µØ·½ÑÔ×ÖÒô¡¢Ô~¡µÄÃâÙMÔÚ¾€…ÇÕZÔ~µä¡£¹©Ä¸ÕZÕß»ò·ÇÄ¸ÕZÕß²éÔƒ×ÖÒô£¬×ÔÎÒ¼måeÊ¹ÓÃ¡£žéÍÆV…ÇÕZÕý×ÖÕýÒô£¬´ÙßM…ÇÕZ•øÃæÎÄ×ÖÒŽ¹ »¯·þ„Õ£¬Ìá¸ß´ó±ŠŒ¦×Ô¼ºÄ¸ÕZ¹¦ÄÜµÄÕJ×R¡£½é½B…ÇÕZÎÄ»¯ºÍÕZÑÔ£¬žéÔÚ…ÇÕZŒWÁ•¡¢ÑÐ¾¿·½ÃæÓÐÅdÈ¤µÄÈËÌá¹©ŽÍÖúÅc·þ„Õ£¬KÌ½Ó‘…ÇÕZÎÄ×ÖÊ¹ÓÃÊÇÒŽ¹ ºÍ˜ËœÊ£¬¹Ä„î´ó¼ÒÈË„“×÷…ÇÕZÕZÎÄ×÷Æ·£¬žé…ÇÕZ•øÃæ»¯¬F´ú»¯Å¬Á¦¡£
+[å³èªžå­¸å ‚](https://wugniu.com)æ˜¯ä¸€å€‹é¢å‘å»£æ³›å—çœ¾ã€å«æœ‰è±å¯ŒåŠæœ‰ç›Šå…§å®¹çš„å³èªžå­¸ç¿’æ•™è‚²ç¶²ç«™ã€‚åŒ…æ‹¬å³èªžå€å„åœ°æ–¹è¨€å­—éŸ³ã€è©žå½™çš„å…è²»åœ¨ç·šå³èªžè©žå…¸ã€‚ä¾›æ¯èªžè€…æˆ–éžæ¯èªžè€…æŸ¥è©¢å­—éŸ³ï¼Œè‡ªæˆ‘ç³¾éŒ¯ä½¿ç”¨ã€‚ç‚ºæŽ¨å»£å³èªžæ­£å­—æ­£éŸ³ï¼Œä¿ƒé€²å³èªžæ›¸é¢æ–‡å­—è¦ç¯„åŒ–æœå‹™ï¼Œæé«˜å¤§çœ¾å°è‡ªå·±æ¯èªžåŠŸèƒ½çš„èªè­˜ã€‚ä»‹ç´¹å³èªžæ–‡åŒ–å’Œèªžè¨€ï¼Œç‚ºåœ¨å³èªžå­¸ç¿’ã€ç ”ç©¶æ–¹é¢æœ‰èˆˆè¶£çš„äººæä¾›å¹«åŠ©èˆ‡æœå‹™ï¼Œä¸¦æŽ¢è¨Žå³èªžæ–‡å­—ä½¿ç”¨æ˜¯è¦ç¯„å’Œæ¨™æº–ï¼Œé¼“å‹µå¤§å®¶äººå‰µä½œå³èªžèªžæ–‡ä½œå“ï¼Œç‚ºå³èªžæ›¸é¢åŒ–ç¾ä»£åŒ–åŠªåŠ›ã€‚
 
 <p align="center">
   <img src="./img/wuyu.png" alt="Size Limit example"
@@ -16,8 +16,9 @@
 
 * [Node.js](https://nodejs.org/en/) - Back-end language
 * [Express](https://expressjs.com/) - Web framework
+* [EJS](https://github.com/mde/ejs) - JavaScript Template Engine
 * [SQLite3](https://github.com/mapbox/node-sqlite3) - Database
-* [°¢ÀïÔÆ](https://cn.aliyun.com/) - Web hosting service
+* [é˜¿é‡Œäº‘](https://cn.aliyun.com/) - Web hosting service
 * [PM2](https://github.com/Unitech/pm2) - Process manager
 * [Bootstrap](https://getbootstrap.com/docs/3.3/) - Front-end library
 * [Font Awesome](https://fontawesome.com/) - Icon Toolkit
